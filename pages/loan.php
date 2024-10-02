@@ -133,8 +133,7 @@
          </div>
         </div>
       </div>
-    <!--PROMO
-     (BUTTON) 2ND COLUMN -->
+    <!--PROMO(BUTTON) 2ND COLUMN -->
       <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab" tabindex="0">
        <div class="row text-light ">
         <div class="col-12 col-sm-12 col-md-4">
@@ -146,10 +145,10 @@
            <div class="list-group">
             <div class="d-flex align-items-start">
              <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-               <button class="nav-link active list-group-item pb-1 pt-1 mb-1 border" id="v-pills-home1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home1" type="button" role="tab" aria-controls="v-pills-home1" aria-selected="true">EASY2</button>
-               <button class="nav-link list-group-item pb-1 pt-1 mb-1 border" id="v-pills-profile1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile1" type="button" role="tab" aria-controls="v-pills-profile1" aria-selected="false">MAXIM</button>
-               <button class="nav-link list-group-item pb-1 pt-1 mb-1 border" id="v-pills-messages1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages1" type="button" role="tab" aria-controls="v-pills-messages1" aria-selected="false">PAMASKO</button>
-               <button class="nav-link list-group-item pb-1 pt-1 mb-1 border" id="v-pills-settings1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings1" type="button" role="tab" aria-controls="v-pills-settings1" aria-selected="false">VALE</button>
+               <button class="nav-link active list-group-item pb-1 pt-1 mb-1 border" id="v-pills-home1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home1" type="button" role="tab" aria-controls="v-pills-home1" aria-selected="true">MPSPL-2</button>
+               <button class="nav-link list-group-item pb-1 pt-1 mb-1 border" id="v-pills-profile1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile1" type="button" role="tab" aria-controls="v-pills-profile1" aria-selected="false">JULIAN</button>
+               <button class="nav-link list-group-item pb-1 pt-1 mb-1 border" id="v-pills-messages1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages1" type="button" role="tab" aria-controls="v-pills-messages1" aria-selected="false" disabled>PAMASKO</button>
+               <button class="nav-link list-group-item pb-1 pt-1 mb-1 border" id="v-pills-settings1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings1" type="button" role="tab" aria-controls="v-pills-settings1" aria-selected="false" disabled>VALE</button>
              </div>
               <div class="tab-content" id="v-pills-tabContent">
                <div class="tab-pane fade show active" id="v-pills-home1" role="tabpanel" aria-labelledby="v-pills-home1-tab" tabindex="0">
@@ -672,7 +671,7 @@
    </div>
    <!--Loan Calculator_Modal-->
     <div class="col-md-2 col-sm-12 py-2">
-        <button class="btn btn-outline-info" data-bs-toggle="modal" data-bs-target="#myModal">Loan Calculator</button>
+        <button class="btn btn-outline-info" data-bs-toggle="modal" data-bs-target="#myModal"><i class="fa-solid fa-calculator"></i> Loan Calculator</button>
          <div class="modal fade" id="myModal">
           <div class="modal-dialog">
            <div class="modal-content">
